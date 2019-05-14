@@ -1,0 +1,7 @@
+﻿  StudentWorld.cpp
+c:\users\leogr\onedrive\documents\freshman_year_ucla\quarter2\cs32\zombiedash\zombiedash\studentworld.cpp(391): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\leogr\onedrive\documents\freshman_year_ucla\quarter2\cs32\zombiedash\zombiedash\studentworld.cpp(392): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\leogr\onedrive\documents\freshman_year_ucla\quarter2\cs32\zombiedash\zombiedash\studentworld.cpp(397): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\leogr\onedrive\documents\freshman_year_ucla\quarter2\cs32\zombiedash\zombiedash\studentworld.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\leogr\onedrive\documents\freshman_year_ucla\quarter2\cs32\zombiedash\zombiedash\studentworld.cpp(266): warning C4715: 'StudentWorld::isFlameBlockedAt': not all control paths return a value
+  ZombieDash.vcxproj -> C:\Users\leogr\OneDrive\Documents\Freshman_Year_UCLA\Quarter2\CS32\ZombieDash\Debug\ZombieDash.exe
